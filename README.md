@@ -8,12 +8,11 @@
   
 <A href='https://nbviewer.jupyter.org/github/JohanSamir/Deep_Learning_UAO/blob/master/Week%203A%20MLP.ipynb'>Week 3A: MLP</A><BR> 
 
-<A href='https://nbviewer.jupyter.org/github/JohanSamir/ML_Coursera-Stanford/blob/master/4.%20Neural%20Networks%20Learning.ipynb'>4. Neural Networks Learning</A><BR>
-  
+ 
 <A href='https://nbviewer.jupyter.org/github/JohanSamir/Deep_Learning_UAO/blob/master/Week%203B%20%20MLP.ipynb'>Week 3B: MLP</A><BR>  
   
-<A href='https://nbviewer.jupyter.org/github/JohanSamir/ML_Coursera-Stanford/blob/master/6.%20Support%20Vector%20Machines.ipynb'>6. Support Vector Machines</A><BR> 
+<A href='https://nbviewer.jupyter.org/github/JohanSamir/Deep_Learning_UAO/blob/master/Week%204A%3A%20MLP%20with%20Iris%20Dataset.ipynb'>Week 4A: MLP with Iris Dataset</A><BR> 
 
-<A href='https://nbviewer.jupyter.org/github/JohanSamir/ML_Coursera-Stanford/blob/master/7.%20K-means%20Clustering%20and%20Principal%20Component%20Analysis.ipynb'>7. K-means Clustering and Principal Component Analysis</A><BR> 
+<A href='https://nbviewer.jupyter.org/github/JohanSamir/Deep_Learning_UAO/blob/master/Week%204B%3A%20MLP%20with%20MNIST%20Dataset.ipynb'> Week 4B: MLP with MNIST Dataset</A><BR> 
 
-<A href='https://nbviewer.jupyter.org/github/JohanSamir/ML_Coursera-Stanford/blob/master/8.%20Anomaly%20Detection%20and%20Recommender%20Systems.ipynb'> 8. Anomaly Detection </A><BR> 
+<A href='https://nbviewer.jupyter.org/github/JohanSamir/Deep_Learning_UAO/blob/master/Week5%3A%20Data%20Augmentation.ipynb'> Week5: Data Augmentation.ipynb </A><BR> 
